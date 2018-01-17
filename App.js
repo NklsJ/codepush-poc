@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.header}>CodePush Proof Of Concept</Text>
-        <Text style={styles.text}>APP JS VERSION: V 2</Text>
+        <Text style={styles.text}>APP JS VERSION: V 5</Text>
       </View>
     );
   }
